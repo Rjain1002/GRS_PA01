@@ -1,0 +1,9 @@
+Program+Function,Count,ExecTime,CPU%,Mem,IO
+MT25080_Part_A_Program_A+cpu,2,15.85,16.2947,1.71489,0
+MT25080_Part_A_Program_A+mem,2,11.70,16.2686,3.16143,0
+MT25080_Part_A_Program_A+io,2,4.89,15.7391,1.58261,900000
+MT25080_Part_B_Program_B+cpu,2,15.09,48.3,0,0
+MT25080_Part_B_Program_B+mem,2,10.82,48.6,9.76,0
+MT25080_Part_B_Program_B+io,2,1.29,0,0,900000
+MT25080_Part_A_Program_A+mem,2,5.56,66.84,0,0
+MT25080_Part_A_Program_A+io,2,1.31,0,0,900000
